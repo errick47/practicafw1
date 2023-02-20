@@ -1,3 +1,3 @@
 # practicafw1
 
-Reservado para cuando se fusione una rama
+Reservado para cuando se fusione una Rama.
