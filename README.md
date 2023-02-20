@@ -1,12 +1,13 @@
 # practicafw1
 
-numero de control: 19120102
+NÚmero de Control:
 
-nombre: Erick Ivan Dominguez Olivier
+Nombre:
 
-curp: DOOE000127HPLMLRA5
+Curp: 
 
-domicilio: Callegon Galeana #608
+Domicilio: 
 
-correo institucional: 19120102@ajalpan.tecnm.mx
+Correo Institucional: 
 
+Rama 1
